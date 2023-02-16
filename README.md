@@ -1,4 +1,4 @@
-# java_data_structures_algos
+# Data Structures and Algorithims in Java
 
 ## Welcome to my data structures and algorithims repo
 
