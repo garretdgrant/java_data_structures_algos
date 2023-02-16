@@ -2,8 +2,9 @@
 
 ## Welcome to my data structures and algorithims repo
 
----
 
-### Description:
+### Repo Overview:
 
-- This repo will contain data structures and algorithims with unit testing in the java language
+- This repo contains data structures and algorithims with unit testing in the java language
+
+- Unit testing done using JUnit framework and google truth assertions library
